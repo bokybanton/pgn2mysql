@@ -1,5 +1,8 @@
 # pgn2mysql
-Convert Chess games in PGN format to MySQL tables
+Convert chess games saved in PGN format to MySQL tables
+
+## Why ?
+Improve the PGN format ideas and develop the chess game notation for the new millenium.
 
 Technologies:
 - HTML
