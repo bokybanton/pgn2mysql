@@ -34,3 +34,10 @@
 + result
 
 
+### tournament dabatabase
++ id
++ name
++ date
++ location
++ desc
++ type
