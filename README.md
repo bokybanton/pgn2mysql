@@ -2,7 +2,7 @@
 Convert chess games saved in PGN format to MySQL tables
 
 ## Why ?
-Improve the PGN format ideas and develop the chess game notation for the new millenium.
+I am using this for small databases to get info on a SQL&PHP based site.
 
 Technologies:
 - HTML
