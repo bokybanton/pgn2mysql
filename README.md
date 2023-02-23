@@ -14,4 +14,3 @@ Technologies:
 
 Future ideas:
 - Rating extract from fide.ratings.com
-- CGS Chess Games Server
